@@ -5,6 +5,6 @@ while n!=0:
     n=n//10
     if x>og:
         og=x
-
+    
 print(og, "is the largest element.")
 
