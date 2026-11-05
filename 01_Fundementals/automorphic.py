@@ -3,6 +3,6 @@ x=n**2
 
 y=x % 10**(len(str(n)))
 if y==n:
-    print(n,"is an automorphic num.")
+    print(n,"is a automorphic num.")
 else:
-    print(n,"is not an automorphic num.")
+    print(n,"is not a automorphic num.")

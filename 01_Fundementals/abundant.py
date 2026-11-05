@@ -7,12 +7,12 @@ for i in range(1,n):
         total=total+i
 '''
 if total < original:
-        print(original,"is an deficient num.")
+        print(original,"is a deficient num.")
 else:
-        print(original,"is not an deficient num.")'''
+        print(original,"is not a deficient num.")'''
 
 if total > original:
-        print(original,"is an abundant num.")
+        print(original,"is a abundant num.")
 else:
-        print(original,"is not an abundant num.")
+        print(original,"is not a abundant num.")
 

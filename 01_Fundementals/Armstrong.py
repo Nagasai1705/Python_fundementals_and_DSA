@@ -15,6 +15,6 @@ while n!=0:
 
     
 if org==total:
-    print(org, "is an Armstrong number.")
+    print(org, "is a Armstrong number.")
 else:
-    print(org,"is not an Armstrong number.")
+    print(org,"is not a Armstrong number.")
